@@ -1,5 +1,7 @@
 # Decode Zhuyin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tpai/decode-zhuyin.svg)](https://greenkeeper.io/)
+
 Decode Zhuyin password from Chinese words.
 
 ## Features
